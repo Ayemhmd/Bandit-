@@ -1,0 +1,5 @@
+ssh bandit7@bandit.labs.overthewire.org -p 2220    
+the pass :
+ls 
+cat data.txt |grep 'millionth'
+flag : TESKZC***************************
