@@ -1,0 +1,6 @@
+ bandit3@bandit.labs.overthewire.org -p 2220 
+the pass :
+ls 
+cd inhere
+cat .hidden 
+flag : 2EW7BB*****************************
