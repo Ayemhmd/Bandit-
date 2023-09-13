@@ -1,0 +1,5 @@
+ssh bandit1@bandit.labs.overthewire.org -p 2220
+the pass : You will use the flag from the previous level as a password for the next level.
+ls -al
+cat /home/bandit1/-  OR cat < -
+flag :rRGizSa******************
