@@ -1,0 +1,8 @@
+ssh bandit5@bandit.labs.overthewire.org -p 2220
+the pass :
+ls 
+cd inhere 
+ls -al 
+find  -readable -size 1033c ! -executable
+cat ./maybehere07/.file2
+flag : P4L4vu****************************
