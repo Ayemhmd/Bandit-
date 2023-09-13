@@ -2,5 +2,6 @@
 the pass :
 ls 
 cd inhere
+ls -al 
 cat .hidden 
 flag : 2EW7BB*****************************
