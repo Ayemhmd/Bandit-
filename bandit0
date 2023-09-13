@@ -2,4 +2,4 @@ ssh bandit0@bandit.labs.overthewire.org  -p 2220
 the pass : bandit0 
 ls 
 cat readme 
-NH2SXQ**************************
+flag :NH2SXQ**************************
