@@ -1,0 +1,7 @@
+ssh bandit4@bandit.labs.overthewire.org -p 2220
+the pass :
+ls 
+cd inhere 
+ls -al 
+file ./-file0* 
+cat ./-file07  
