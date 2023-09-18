@@ -1,0 +1,5 @@
+sh bandit8@bandit.labs.overthewire.org -p 2220
+the pass :
+ls 
+sort data.txt |uniq -u
+flag:EN632P************************
