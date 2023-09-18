@@ -1,0 +1,5 @@
+ssh bandit9@bandit.labs.overthewire.org -p 2220
+the pass:
+ls -al 
+strings data.txt |grep '='
+flag:G7w8LI******************
