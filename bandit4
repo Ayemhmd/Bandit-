@@ -1,5 +1,5 @@
 ssh bandit4@bandit.labs.overthewire.org -p 2220
-the pass :
+the pass :You will use the flag from the previous level as a password for the next level.
 ls 
 cd inhere 
 ls -al 
