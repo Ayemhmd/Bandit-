@@ -1,0 +1,5 @@
+ssh bandit10@bandit.labs.overthewire.org -p 2220
+thepass:You will use the flag from the previous level as a password for the next level.
+ls 
+base64 -d data.txt
+flag:6zPeziL***********************
